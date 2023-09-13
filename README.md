@@ -1,2 +1,2 @@
-# learn-python
+#Basics in Python 
 python basic functionalities
