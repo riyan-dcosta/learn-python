@@ -12,4 +12,6 @@
 ### Flask Server
 
 - Flask is used for making a server in python. We can use CRUD operations in Flask along with Flask API package.
+- **Flask Test**
+  - `flask --app feature\flask_api\flask_test run --debug` : this will run `flask_test.py` file. Can open the CLI generated link in browsers.
 - Please check the [Flask Documentation](https://flask.palletsprojects.com/en/2.3.x/installation/) for more information.
